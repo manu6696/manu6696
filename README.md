@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Manuel
+# 👋 Hi there, I'm Manuel
 
 Software developer with experience in industrial automation (PLC, robotics), currently a part-time Computer Science student @ Ca' Foscari University of Venice and exploring new directions in software development.
 
