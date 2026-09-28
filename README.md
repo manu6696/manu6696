@@ -31,7 +31,7 @@ Software developer with experience in industrial automation (PLC, robotics), cur
 
 ### 📌 Featured Projects
 
-- 🎮 [**Overseas mobility application**](https://github.com/manu6696/overseas_mobility_application) — full-stack web application for overseas mobility management, built with MEAN stack and TypeScript
+- 🌍 [**Overseas mobility application**](https://github.com/manu6696/overseas_mobility_application) — full-stack web application for overseas mobility management, built with MEAN stack + TypeScript
 - 🎮 [**Tetris**](https://github.com/manu6696/tetris) — classic game implementation in C++
 - 🁢 [**Dominoes**](https://github.com/manu6696/domino_lineare) — algorithmic logic project in C
 
